@@ -4,7 +4,18 @@ Complete guide to Emergency Medical Services on DPSRP.
 
 ## Overview
 
+DPSRP uses **wasabi_ambulance** - a comprehensive EMS system with immersive medical roleplay, stretcher transport, dispatch integration, and hospital services.
+
 As EMS, you save lives across San Andreas by responding to medical emergencies and treating injured players.
+
+### System Features
+- **Medical Bag** - Authentic instruments for roleplay
+- **Stretcher System** - Transport patients to ambulance/hospital
+- **Built-in Dispatch** - Receive emergency calls
+- **Hospital Check-in** - Process patients at facilities
+- **Multi-Hospital Support** - Multiple treatment locations
+- **Invoice System** - Bill patients for services
+- **Anti-Combat Log** - Disconnected players respawn dead
 
 ## Getting Started
 
@@ -47,8 +58,15 @@ As EMS, you save lives across San Andreas by responding to medical emergencies a
 | Item | Use |
 |------|-----|
 | Defibrillator | Revive downed players |
-| Medical Kit | Heal bleeding, 5-sec use |
-| Medical Bag | Professional equipment |
+| Medical Kit | Heal self or others |
+| Medical Bag | Full professional equipment |
+
+### Sedatives
+| Item | Effect |
+|------|--------|
+| Sedative | Temporarily incapacitates patient (configurable duration) |
+
+*Used to calm combative patients or for medical procedures*
 
 ### Medications
 | Drug | Duration | Potency |
@@ -89,8 +107,14 @@ As EMS, you save lives across San Andreas by responding to medical emergencies a
 ### Player Death Stages
 1. **Last Stand** - Player can crawl, call for help
 2. **Downed** - Immobile, waiting for EMS
-3. **Bleedout Timer** - 20 minutes to be revived
-4. **Respawn** - Available after 5 minutes
+3. **Bleedout Timer** - Time limit to be revived
+4. **Respawn** - Available after timer expires
+
+### Death Screen
+- Synced death animations across all players
+- Persistent death state (survives reconnect)
+- Anti-combat log protection
+- Must receive treatment OR respawn with penalties
 
 ### Revival Rewards
 | Condition | Payment |

@@ -9,23 +9,74 @@ General overview of criminal opportunities in Los Santos. Discovery is part of t
 - Minimum police requirements exist for major heists
 - Consequences include jail time, fines, and criminal record
 
-## Robbery Types
+## Robbery Systems (Wasabi)
+
+All major robberies use Wasabi scripts with consistent features:
+- Minimum police requirements
+- Global cooldowns between attempts
+- Multiple entry methods (hacking, thermite, drilling, C4)
+- Skill-check minigames
+- Police camera integration
+- Discord logging
 
 ### Store Robberies
-- **24/7 Stores** - Quick cash, low risk
-- **Liquor Stores** - Similar to convenience stores
-- **Ammunation** - Higher risk, better reward
+
+**Ammunation (wasabi_ammunationrobbery)**
+- Rob ammunition stores for weapons/cash
+- Higher risk than convenience stores
+- Police alerts triggered
+
+**24/7 & Liquor Stores**
+- Quick cash, low risk
+- Good starting point for criminals
 
 ### Bank Heists
-- **Fleeca Banks** - Entry-level bank jobs
-- **Paleto Bay Bank** - Mid-tier heist
-- **Pacific Standard** - Major heist, high reward
-- **Bobcat Security** - Armored facility
 
-### Other Heists
-- **Yacht Heist** - Maritime operation
-- **Warehouse Raids** - Various targets
-- **Vehicle Heists** - High-value car theft
+**Fleeca Banks (wasabi_fleecarobberies)**
+- Entry-level bank jobs
+- Multiple locations across LS
+- Lower police requirement
+- Good for learning heist mechanics
+
+**Paleto Bay Bank (wasabi_paletorobbery)**
+- Blaine County Savings Bank
+- Mid-tier difficulty and reward
+- Multiple looting methods:
+  - Drilling
+  - Grabbing trollies
+  - Collecting cash stacks
+- Door access via: C4, thermite, laptop hacking, USB, drilling
+- Laser security zones (disable via minigames)
+- Loot sold at separate fence location
+
+**Pacific Standard (wasabi_pacificrobbery)**
+- The BIG one - largest bank in Los Santos
+- Highest police requirement
+- Complex multi-stage heist
+- Entry methods:
+  - C4 bombing
+  - Thermite bombing
+  - Laptop/USB hacking
+  - Drilling
+- Laser security throughout (contact = damage)
+- Multiple looting areas and methods
+- Police can monitor via camera system
+- Supports multiple MLO versions (default, K4MB1, Gabz)
+
+### Jewelry Heist
+
+**Vangelico (wasabi_vangelicorobbery)**
+- High-end jewelry store
+- Smash and grab mechanics
+- Fence valuable items for profit
+
+### Special Heists
+
+**Yacht Heist (wasabi_yachtheist)**
+- Maritime operation
+- Board and loot luxury yacht
+- High risk, high reward
+- Escape by sea or air
 
 ## Drug Trade
 
