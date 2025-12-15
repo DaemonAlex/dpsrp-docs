@@ -1,6 +1,6 @@
 # DPSRP Server Documentation
 
-![DPSRP Logo](images/DSLogo.png)
+![DPSRP Logo](images/dpsrp-logo-small.png)
 
 Official documentation for the DPSRP V1.5 FiveM Roleplay Server.
 
