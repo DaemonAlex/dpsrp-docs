@@ -167,15 +167,55 @@ Prevents weapons from being lost when disarmed.
 - WEAPON_COMBATPISTOL
 - WEAPON_STUNGUN (Taser)
 
-### Smart Drone
+### Smart Drone (SmartDrone)
 
-Aerial surveillance drone for police operations.
+Advanced aerial surveillance drone for police operations.
 
-**Usage:**
-- Deploy drone for aerial view
-- Track suspects from above
-- Search large areas
-- Coordinate with ground units
+**Command:** `/drone [type]`
+
+**Drone Types:**
+| Type | Model |
+|------|-------|
+| drone1 | Standard surveillance drone |
+| drone2 | Alternate drone model |
+
+**Drone Controls:**
+| Key | Action |
+|-----|--------|
+| Left ALT | Start/stop controlling drone |
+| Arrow Up | Rotate camera up |
+| Arrow Down | Rotate camera down |
+| Arrow Left | Rotate camera left |
+| Arrow Right | Rotate camera right |
+| F9 | Toggle searchlight |
+| Delete | Toggle night vision |
+| End | Toggle thermal imaging |
+| Page Down | Cycle searchlight color |
+
+**Features:**
+- **Night Vision** - See in darkness
+- **Thermal Imaging** - Detect heat signatures
+- **Searchlight** - Illuminate targets (auto-on 6pm-6am)
+  - Multiple colors: White, Blue, Red
+- **Maximum Range** - 300m from operator
+- **Spawn Pad** - Deploy on landing pad or in front of you
+
+**Searchlight Colors:**
+- White (default)
+- Blue
+- Red
+
+**No-Fly Zones:**
+- Military Base (Fort Zancudo) - 400m radius restricted
+
+**Usage Tips:**
+1. Find clear area to deploy
+2. Use `/drone` command to spawn
+3. Press Left ALT to take control
+4. Use arrow keys to look around
+5. Toggle thermal to find suspects in hiding
+6. Maximum 300m range before signal loss
+7. Drone removed if you move too far away
 
 ### Smart Laser
 

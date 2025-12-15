@@ -184,6 +184,31 @@ Many mechanic shops offer towing:
 4. Transport to shop
 5. Begin repairs
 
+## Car Transporter (London Studios)
+
+For transporting multiple vehicles at once, use the car transporter.
+
+### Controls
+- Uses NUI menu interface
+- Control ramps and loading platforms
+- Load/unload vehicles with on-screen buttons
+
+### Capabilities
+- Transport multiple vehicles simultaneously
+- Adjustable ramps for loading
+- Secure vehicles during transport
+- Useful for dealership deliveries
+- Great for repossessions
+
+### Usage
+1. Park transporter on flat surface
+2. Open control menu
+3. Lower loading ramp
+4. Drive vehicle onto transporter
+5. Secure vehicle position
+6. Raise ramp for transport
+7. Reverse process to unload
+
 ## Tips
 
 1. **Diagnose first** - Know what you're fixing

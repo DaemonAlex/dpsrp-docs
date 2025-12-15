@@ -47,20 +47,43 @@ Different fires require different approaches:
 
 ### Fire Trucks (SmartVehicle)
 
+London Studios SmartVehicle provides advanced controls for fire apparatus including ladder trucks, tiller trucks, and aerial platforms.
+
 **Setup Commands:**
 | Command | Description |
 |---------|-------------|
 | `/setupvehicle` | Initialize smart vehicle features |
-| `/resetvehicle` | Reset vehicle to default |
-| `/entercage` | Enter aerial cage/bucket |
-| `/exitcage` | Exit cage |
+| `/setupvehicle [type]` | Setup with specific ladder type (if vehicle supports multiple) |
+| `/resetvehicle` | Reset vehicle to default state |
+| `/entercage` | Enter aerial cage/bucket (within 20m of vehicle) |
+| `/exitcage` | Exit aerial cage |
+
+**Vehicle Types:**
+| Type | Description |
+|------|-------------|
+| American Rearmount Ladder | Traditional rear-mounted aerial ladder |
+| Tiller Ladder Truck | Dual-driver aerial with rear steering |
+| Standard Engine | Basic fire engine with equipment |
+
+**Controls:**
+| Key | Action |
+|-----|--------|
+| E | Dynamic attachment control (interact with vehicle components) |
+| Prompt appears | Approach vehicle within 4m to see control prompt |
+
+**Cage/Bucket Operations:**
+- Enter cage from within 20m of the vehicle
+- Used for elevated rescue and firefighting
+- Control aerial platform movement from inside cage
+- Exit returns you to ground level
 
 **Features:**
-- Ladder controls
-- Aerial platforms
+- Automatic setup when entering vehicle
+- Realistic ladder extension and rotation
+- Aerial platform positioning
 - Deck guns (water monitors)
-- Equipment storage
-- Dynamic attachment control (E key)
+- Equipment compartment access
+- Sound effects for hydraulics
 
 ## Responding to Fires
 

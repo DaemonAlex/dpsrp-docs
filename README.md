@@ -78,14 +78,15 @@ Press **F10** or type `/help` to open the in-game guidebook.
 - **wasabi_spawn** - 10 spawn locations across San Andreas
 - **wasabi_crutch** - Mobility aids (crutches, wheelchairs)
 
-### London Studios (Emergency Services)
+### London Studios (Emergency Services & Vehicles)
 - **SmartFires** - Realistic fire system with types, spreading, auto-fires
 - **SmartTaser** - Dual cartridge taser with laser, flashlight, arc mode
-- **SmartVehicle** - Fire truck ladders, cages, deck guns
+- **SmartVehicle** - Fire truck ladders, cages, deck guns, aerial platforms
 - **DirectionalSpikes** - Police spike strips
 - **WeaponLanyard** - Weapon retention system
-- **SmartDrone** - Aerial surveillance
+- **SmartDrone** - Aerial surveillance with thermal/night vision
 - **SmartLaser** - Speed detection
+- **Car Transporter** - Multi-vehicle transport with NUI controls
 
 ### Entertainment
 - **rcore_dragrace** - Quarter-mile drag racing
