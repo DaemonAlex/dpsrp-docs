@@ -91,7 +91,7 @@ Your vehicles are stored in personal garages. Access them at:
 
 ## Vehicle Features
 
-### Controls
+### Basic Controls
 | Key | Action |
 |-----|--------|
 | F | Enter/Exit |
@@ -101,12 +101,38 @@ Your vehicles are stored in personal garages. Access them at:
 | X | Roll down window |
 | L | Lock/Unlock |
 
-### Vehicle Menu
-Access additional options:
-- Engine on/off
-- Doors (hood, trunk)
-- Windows
-- Seats (switch positions)
+### Vehicle Control Menu (CodeSign)
+Press **K** or type `/vehcontrol` to access the full vehicle control UI.
+
+**Available Inside Vehicle:**
+| Feature | Description |
+|---------|-------------|
+| Engine Toggle | Turn engine on/off |
+| Indicators | Left/right turn signals |
+| Doors | Open/close all doors |
+| Windows | Control all windows |
+| Extras | Toggle vehicle add-ons |
+| Liveries | Change paint schemes |
+| Neons | Underglow lighting & colors |
+| Seats | Switch seat positions |
+
+**Available Outside Vehicle:**
+- Limited options when standing near your vehicle
+- Must be the vehicle owner
+
+### Vehicle Add-ons (Extras)
+Many vehicles have toggleable extras:
+- Lightbars
+- Roof racks
+- Mirrors
+- Antenna
+- Accessories
+
+### Neon Underglow
+Customize your underglow through the vehicle menu:
+- Multiple color options
+- Toggle on/off
+- Some colors may be restricted
 
 ## Mileage System (jg-vehiclemileage)
 
