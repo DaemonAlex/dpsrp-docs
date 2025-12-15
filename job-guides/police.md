@@ -2,6 +2,10 @@
 
 Comprehensive guide to law enforcement on DPSRP.
 
+![BCSO Deputies on Patrol](../images/police/bcso.webp)
+
+*Blaine County Sheriff's Office deputies maintaining law and order*
+
 ## Departments
 
 | Department | Abbreviation | Jurisdiction |
@@ -11,6 +15,8 @@ Comprehensive guide to law enforcement on DPSRP.
 | State Police | SASP | Statewide |
 
 ## Getting Started
+
+![Officers After a Bust](../images/police/cops-parking-lot.webp)
 
 ### Requirements
 - Application and interview

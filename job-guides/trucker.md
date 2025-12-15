@@ -2,6 +2,10 @@
 
 Complete guide to the trucking profession on DPSRP.
 
+![Trucking Job](../images/trucker/truck-job.webp)
+
+*Life on the open road - hauling freight across San Andreas*
+
 ## Overview
 
 DPSRP uses **lc_truck_logistics** - a comprehensive trucking system inspired by Euro Truck Simulator with skill progression, truck ownership, loans, and multiplayer deliveries.

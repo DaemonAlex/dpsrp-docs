@@ -1,6 +1,10 @@
 # DPSRP Server Documentation
 
+![DPSRP Logo](images/DSLogo.png)
+
 Official documentation for the DPSRP V1.5 FiveM Roleplay Server.
+
+![Vinewood at Night](images/general/vinewood-night.webp)
 
 ## Quick Links
 

@@ -2,6 +2,10 @@
 
 Welcome to DPSRP! This guide will help you get started on your journey in Los Santos.
 
+![Welcome to Los Santos](../images/general/sunset-delperro.webp)
+
+*Welcome to Los Santos - Your new life awaits*
+
 ## Character Selection (wasabi_multichar)
 
 When you first connect, you'll see the character selection screen.

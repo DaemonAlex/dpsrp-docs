@@ -2,6 +2,10 @@
 
 General overview of criminal opportunities in Los Santos. Discovery is part of the experience - this guide covers what exists, not step-by-step instructions.
 
+![Criminal Activity](../images/crime/robbers.webp)
+
+*The criminal underworld of Los Santos*
+
 ## Important Notes
 
 - All criminal activity carries risk of police response
@@ -31,6 +35,10 @@ All major robberies use Wasabi scripts with consistent features:
 - Good starting point for criminals
 
 ### Bank Heists
+
+![Bank Heist](../images/crime/bank-heist.webp)
+
+*Planning the big score*
 
 **Fleeca Banks (wasabi_fleecarobberies)**
 - Entry-level bank jobs
@@ -79,6 +87,10 @@ All major robberies use Wasabi scripts with consistent features:
 - Escape by sea or air
 
 ## Drug Trade
+
+![Drug Runner](../images/crime/drug-runner.webp)
+
+*Running product through Blaine County*
 
 Two paths to profit:
 

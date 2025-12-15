@@ -2,6 +2,10 @@
 
 Complete guide to Emergency Medical Services on DPSRP.
 
+![Los Santos EMS](../images/ems/lsems.webp)
+
+*Los Santos Emergency Medical Services - Saving Lives Across San Andreas*
+
 ## Overview
 
 DPSRP uses **wasabi_ambulance** - a comprehensive EMS system with immersive medical roleplay, stretcher transport, dispatch integration, and hospital services.
@@ -160,10 +164,18 @@ As EMS, you save lives across San Andreas by responding to medical emergencies a
 
 ## Hospital Services
 
+![Pillbox Hospital Lobby](../images/ems/hospital-lobby.webp)
+
+*Pillbox Medical Center - Main Reception Area*
+
 ### Pillbox Medical Center
 - **Location:** vec3(324.15, -583.14, 44.20)
 - **Check-in Cost:** $500
 - **Check-in Time:** 15 seconds
+
+![Operating Room](../images/ems/operating-room.webp)
+
+*State-of-the-art surgical facilities*
 
 ### Available Services
 - Emergency treatment

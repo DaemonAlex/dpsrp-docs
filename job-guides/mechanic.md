@@ -2,6 +2,10 @@
 
 Complete guide to the mechanic profession on DPSRP.
 
+![Car Meet](../images/mechanic/carmeet.webp)
+
+*Los Santos car enthusiasts showing off their builds*
+
 ## Overview
 
 Mechanics repair, customize, and tune vehicles using **jg-mechanic**. This is one of the most feature-rich jobs with performance tuning, engine swaps, nitrous installation, and cosmetic modifications.
@@ -130,6 +134,10 @@ Replace a vehicle's engine for different characteristics.
 - Return to mechanic for refills
 
 ## Cosmetic Modifications
+
+![Custom Tuned Car](../images/mechanic/tuned-car.webp)
+
+*A fully customized build fresh out of the shop*
 
 ### Available Options
 - Paint and pearlescent colors

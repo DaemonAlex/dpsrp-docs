@@ -2,6 +2,10 @@
 
 Complete guide to racing on DPSRP - a car enthusiast's server!
 
+![Street Racing Scene](../images/racing/streetrace.webp)
+
+*Underground street racing in Los Santos*
+
 ## Overview
 
 DPSRP features multiple racing systems:
@@ -71,6 +75,10 @@ Best upgrades for drag racing:
 ---
 
 ## RC Racing (Pata_RcRace)
+
+![RC Track](../images/racing/rc-track.webp)
+
+*RC Racing track - miniature thrills, maximum fun!*
 
 ### What is RC Racing?
 Radio-controlled car racing on miniature tracks!

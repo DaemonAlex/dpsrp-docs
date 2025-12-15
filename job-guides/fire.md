@@ -2,6 +2,10 @@
 
 Complete guide to firefighting on DPSRP.
 
+![San Andreas Fire Rescue](../images/fire/fire-rescue.webp)
+
+*San Andreas Fire Rescue responding to emergencies across the state*
+
 ## Overview
 
 DPSRP uses **London Studios SmartFires** - a comprehensive fire system with realistic fire types, automatic spawning, spreading mechanics, and dispatch integration.
@@ -86,6 +90,10 @@ London Studios SmartVehicle provides advanced controls for fire apparatus includ
 - Sound effects for hydraulics
 
 ## Responding to Fires
+
+![Fire Training Exercise](../images/fire/fire-training.webp)
+
+*Firefighters conducting training exercises*
 
 ### Dispatch Alerts
 When a fire starts, you'll receive:
