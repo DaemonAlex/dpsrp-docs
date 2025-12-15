@@ -134,26 +134,55 @@ Customize your underglow through the vehicle menu:
 - Toggle on/off
 - Some colors may be restricted
 
-## Vehicle Locking (wasabi_carlock)
+## Vehicle Keys & Locking (wasabi_carlock)
 
-### Locking Your Vehicle
-- Press **L** to lock/unlock your vehicle
-- Only the owner can lock/unlock normally
-- Locked vehicles protect against theft
+Advanced vehicle key system with animations and security.
+
+### Basic Controls
+| Key | Action |
+|-----|--------|
+| L | Lock/Unlock vehicle |
+| G | Toggle engine |
+
+### Key Ownership
+- You automatically receive keys to all owned vehicles on spawn
+- Keys are synced server-side (anti-cheat protected)
+- Full animation support for all interactions
+
+### Giving Keys to Others
+Share vehicle access with other players:
+1. Use the give keys command
+2. Select player from menu
+3. They can now unlock/start your vehicle
 
 ### Vehicle Theft (Criminal)
-Criminals can attempt to steal locked vehicles:
 
-| Method | Description |
-|--------|-------------|
-| Lockpicking | Use lockpicks on door |
-| Hotwiring | Start engine without keys |
+**Lockpicking**
+- Use lockpicks on locked doors
+- Skill check required
+- Difficulty based on vehicle class:
+  | Class | Difficulty |
+  |-------|------------|
+  | Sedans | Easier |
+  | Sports | Medium |
+  | Supercars | Harder |
+
+**Hotwiring**
+- Start engine without keys
+- Skill check required
+- Limited attempts before failure
+- Difficulty scales with vehicle value
+
+**Robbing NPCs**
+- Hold NPC at gunpoint
+- Demand their car keys
+- Risk vs reward gameplay
 
 ### Protecting Your Vehicle
-1. Always lock when leaving
-2. Park in safe areas
-3. Don't leave valuables visible
-4. Use garages for long-term storage
+1. **Always lock** when leaving
+2. **Park smart** - safe areas, garages
+3. **Use garages** - stored vehicles are safe
+4. **Don't leave running** - easy target
 
 ## Mileage System (jg-vehiclemileage)
 
