@@ -72,6 +72,11 @@ Press **F10** or type `/help` to open the in-game guidebook.
 - **ap-government** - City government and taxation
 - **wasabi_mdt** - Police mobile data terminal
 
+### Core Systems
+- **wasabi_multichar** - 4 character slots, VIP extras
+- **wasabi_spawn** - 10 spawn locations across San Andreas
+- **wasabi_crutch** - Mobility aids (crutches, wheelchairs)
+
 ### Entertainment
 - **rcore_dragrace** - Quarter-mile drag racing
 - **Pata_RcRace** - RC car racing

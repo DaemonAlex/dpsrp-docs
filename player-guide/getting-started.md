@@ -2,13 +2,49 @@
 
 Welcome to DPSRP! This guide will help you get started on your journey in Los Santos.
 
-## Creating Your Character
+## Character Selection (wasabi_multichar)
 
-When you first join the server, you'll use the character creation system to design your character:
+When you first connect, you'll see the character selection screen.
 
-1. **Choose your appearance** - Customize your character's look
-2. **Set your identity** - First name, last name, date of birth, gender
-3. **Select spawn location** - Choose where to begin your story
+### Character Slots
+- **4 Standard Slots** - Available to all players
+- **VIP Slots** - Additional slots for supporters
+
+### Creating a New Character
+1. Select an empty character slot
+2. **Customize appearance** - Design your character's look
+3. **Set identity** - First name, last name, date of birth, nationality
+4. **Confirm creation** - Your character is saved
+
+### Managing Characters
+- **Select** - Click on a character to play them
+- **Delete** - Remove characters you no longer want (if enabled)
+
+### Switching Characters
+Staff can use `/logout` to return to character selection.
+
+## Spawn Selection (wasabi_spawn)
+
+After selecting your character, choose where to spawn.
+
+### Available Spawn Locations
+| Location | Area | Description |
+|----------|------|-------------|
+| Del Perro Pier | Beach | Beachfront entertainment district |
+| Vespucci Beach | Coast | Muscle beach, boardwalk |
+| Pacific Bluffs | Hills | Clifftop views, luxury area |
+| Legion Square | Downtown | City center hub |
+| Grapeseed Farm | Blaine County | Rural countryside |
+| Paleto Bay Pier | North | Small-town fishing pier |
+| Paleto Bay Lodge | Mountains | Forest retreat |
+| Roxwood Medical | Roxwood | Central services |
+| Paradiso Degli Ulivi | Juniper | Coastal resort |
+| Roxwood Rangers | Wilderness | State park outpost |
+
+### Spawn Options
+- **Last Location** - Spawn where you logged out (after first spawn)
+- **Select Location** - Choose from available spawn points
+- **Property** - Spawn at your owned home (if applicable)
 
 ## First Steps After Spawning
 

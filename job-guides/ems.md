@@ -172,6 +172,36 @@ As EMS, you save lives across San Andreas by responding to medical emergencies a
 4. Complete medical report
 5. Discharge patient
 
+## Mobility Assistance (wasabi_crutch)
+
+EMS and Police can assign mobility aids to injured patients.
+
+### Available Equipment
+| Item | Use | Duration |
+|------|-----|----------|
+| Crutches | Leg injuries, mobility impairment | Up to 10 minutes |
+| Wheelchair | Severe injuries, unable to walk | Up to 10 minutes |
+
+### Assigning Mobility Aids
+1. Have crutch or wheelchair item
+2. Approach injured player
+3. Use item on them
+4. They receive mobility impairment
+
+### Patient Experience
+- **Crutches** - Slower movement, limping animation
+- **Wheelchair** - Must use wheelchair to move
+
+### Duration & Removal
+- Automatically removed after set time
+- Removed on death (configurable)
+- EMS can remove early
+
+### Authorized Jobs
+Only these jobs can assign mobility aids:
+- EMS/Ambulance
+- Police
+
 ## Tips
 
 1. **Scene Safety** - Ensure area is secure before treating
@@ -180,3 +210,4 @@ As EMS, you save lives across San Andreas by responding to medical emergencies a
 4. **Stock Up** - Keep supplies in your vehicle
 5. **Document** - Log treatments for records
 6. **Helicopter** - Use for remote/urgent calls
+7. **Mobility Aids** - Use crutches/wheelchair for RP immersion
