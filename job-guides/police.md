@@ -87,6 +87,105 @@ Comprehensive guide to law enforcement on DPSRP.
 - Police tents and lights
 - Vehicle impounding
 
+## London Studios Equipment
+
+### Smart Taser (SmartTaser)
+Advanced taser system with realistic mechanics.
+
+**Taser Features:**
+- Dual cartridge system (2 shots)
+- Laser sight and flashlight
+- Drive stun (arc) mode for close range
+- Cartridge reactivation
+- Safety toggle
+- Audit trail logging
+
+**Taser Keybinds:**
+| Key | Action |
+|-----|--------|
+| PageUp | Select left cartridge |
+| PageDown | Select right cartridge |
+| X | Enable arc/drive stun mode |
+| Q | Toggle flashlight |
+| E | Toggle laser sight |
+| Z | Toggle safety |
+| R | Reload taser |
+
+**Taser Commands:**
+| Command | Description |
+|---------|-------------|
+| `/reloadtaser` | Reload taser cartridges |
+| `/removebarbs` | Remove barbs from suspect |
+| `/toggletorch` | Toggle flashlight |
+| `/togglelaser` | Toggle laser sight |
+| `/togglesafety` | Toggle safety mode |
+| `/drivestun` | Toggle drive stun mode |
+
+**Cartridge System:**
+- 2 cartridges loaded
+- Requires `taser_cartridge` item to reload
+- Can reactivate fired cartridge (re-tase)
+- Barbs auto-remove at 25m range
+
+### Directional Spike Strips
+
+Deploy spike strips to stop fleeing vehicles.
+
+**Spike Command:** `/spike create` or `/spike remove`
+
+**Placement Controls:**
+| Control | Action |
+|---------|--------|
+| Mouse | Position spike |
+| Grab Key | Grab/move object |
+| Rotate Key | Rotate spike direction |
+| ALT | Change permanence (temp/perm) |
+| Backspace | Cancel placement |
+| Enter | Place spike |
+
+**Spike Types:**
+- **Temporary** - Removed after use or manually
+- **Permanent** - Stays until manually removed
+
+**Effects:**
+- Tires pop on contact
+- Directional - only affects vehicles crossing the right way
+- 5m range to remove
+
+### Weapon Lanyard
+
+Prevents weapons from being lost when disarmed.
+
+**How It Works:**
+- Supported weapons attach to lanyard
+- If disarmed, weapon falls to lanyard (not ground)
+- Automatically re-equip from lanyard
+- Works with: Pistol, Combat Pistol, Stungun
+
+**Supported Weapons:**
+- WEAPON_PISTOL
+- WEAPON_COMBATPISTOL
+- WEAPON_STUNGUN (Taser)
+
+### Smart Drone
+
+Aerial surveillance drone for police operations.
+
+**Usage:**
+- Deploy drone for aerial view
+- Track suspects from above
+- Search large areas
+- Coordinate with ground units
+
+### Smart Laser
+
+Speed detection laser gun.
+
+**Features:**
+- Point-and-click speed detection
+- Accurate readings
+- Evidence for traffic stops
+
 ## MDT System (Mobile Data Terminal)
 
 ### Access

@@ -35,8 +35,9 @@ Official documentation for the DPSRP V1.5 FiveM Roleplay Server.
 ### Job Guides
 
 #### Emergency Services
-- [Police](job-guides/police.md) - Law enforcement guide
+- [Police](job-guides/police.md) - Law enforcement guide (includes SmartTaser, spikes, drone)
 - [EMS/Medical](job-guides/ems.md) - Emergency medical services
+- [Fire Department](job-guides/fire.md) - Firefighting guide (SmartFires system)
 
 #### Transportation
 - [Airlines](job-guides/airlines.md) - Pilot career guide
@@ -76,6 +77,15 @@ Press **F10** or type `/help` to open the in-game guidebook.
 - **wasabi_multichar** - 4 character slots, VIP extras
 - **wasabi_spawn** - 10 spawn locations across San Andreas
 - **wasabi_crutch** - Mobility aids (crutches, wheelchairs)
+
+### London Studios (Emergency Services)
+- **SmartFires** - Realistic fire system with types, spreading, auto-fires
+- **SmartTaser** - Dual cartridge taser with laser, flashlight, arc mode
+- **SmartVehicle** - Fire truck ladders, cages, deck guns
+- **DirectionalSpikes** - Police spike strips
+- **WeaponLanyard** - Weapon retention system
+- **SmartDrone** - Aerial surveillance
+- **SmartLaser** - Speed detection
 
 ### Entertainment
 - **rcore_dragrace** - Quarter-mile drag racing
