@@ -134,6 +134,27 @@ Customize your underglow through the vehicle menu:
 - Toggle on/off
 - Some colors may be restricted
 
+## Vehicle Locking (wasabi_carlock)
+
+### Locking Your Vehicle
+- Press **L** to lock/unlock your vehicle
+- Only the owner can lock/unlock normally
+- Locked vehicles protect against theft
+
+### Vehicle Theft (Criminal)
+Criminals can attempt to steal locked vehicles:
+
+| Method | Description |
+|--------|-------------|
+| Lockpicking | Use lockpicks on door |
+| Hotwiring | Start engine without keys |
+
+### Protecting Your Vehicle
+1. Always lock when leaving
+2. Park in safe areas
+3. Don't leave valuables visible
+4. Use garages for long-term storage
+
 ## Mileage System (jg-vehiclemileage)
 
 Your vehicle tracks:

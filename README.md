@@ -60,6 +60,7 @@ Press **F10** or type `/help` to open the in-game guidebook.
 - **jg-mechanic** - Full tuning, nitrous, engine swaps
 - **jg-advancedgarages** - Advanced garage management
 - **CodeSign Vehicle Control** - Press K for full vehicle menu
+- **wasabi_carlock** - Vehicle locking, lockpicking, hotwiring
 
 ### Business Systems
 - **lc_factories** - Coca-Cola, vehicles, electronics, weapons production
