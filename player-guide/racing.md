@@ -118,38 +118,76 @@ Radio-controlled car racing on miniature tracks!
 
 ---
 
-## Street Racing
+## Street Racing (rcore_races)
 
 ![JDM Street Racing](../images/racing/jdm-race.webp)
 
 *JDM culture runs deep in Los Santos*
 
-### Underground Scene
-Illegal street racing for those who dare.
+### Overview
+Organized street racing with checkpoints, betting, and leaderboards.
 
 ![Koreatown JDM Scene](../images/racing/jdm-koreatown.webp)
 
 *Late night meets in Koreatown*
 
-### Finding Races
-- Word of mouth
-- Phone contacts
-- Racing crews
-- Late night meetups
+### Commands
+| Command | Description |
+|---------|-------------|
+| `/createrace [length] [category] [bet]` | Create a new race |
+| `/startrace` | Start the race immediately |
+| `/stoprace` | Stop the current race |
+| `/racestats` | View race statistics |
+| `/racename [name]` | Set your racer name |
+| `/raceready` | Signal you're ready to race |
+| `/racecategory` | Check your vehicle's category |
+| `/racehelp` | Get help with commands |
 
-### Types of Street Races
-| Type | Description |
-|------|-------------|
-| Sprint | Point A to Point B |
-| Circuit | Multiple laps |
-| Drag | Straight line |
-| Touge | Mountain passes |
-| Pink Slip | Winner takes loser's car |
+### Creating a Race
+1. Drive to a road/area you want to race
+2. Type `/createrace [length] [category] [bet]`
+   - **Length:** `short` (15 checkpoints), `normal` (40), `long` (80)
+   - **Category:** `a`, `b`, `c`, or `d` (vehicle class)
+   - **Bet:** Optional entry fee amount
+3. Race generates checkpoints automatically
+4. Blip appears on map for other players
 
-### Betting
-- Set wager before race
-- Winner takes the pot
-- Pink slips for high stakes
+### Vehicle Categories
+| Category | Description |
+|----------|-------------|
+| A | Top tier supercars |
+| B | Sports cars |
+| C | Muscle/tuners |
+| D | Economy/compacts |
+
+Use `/racecategory` while in your car to check which category it belongs to.
+
+### Joining a Race
+1. Look for race blips on the map
+2. Drive to the start checkpoint
+3. Press **E** to join
+4. Wait in the zone for the race to start
+5. Type `/raceready` when you're set
+
+### Race Features
+- **Slipstreaming** - Draft behind other cars for a speed boost
+- **Checkpoints** - Follow the checkpoint markers
+- **Timer** - Race against the clock and other players
+- **ELO Rating** - Earn/lose rating based on performance
+- **Betting** - Win money from entry fees
+
+### Race Lengths
+| Length | Checkpoints | Time After 1st Finish |
+|--------|-------------|----------------------|
+| Short | 15 | 30 seconds |
+| Normal | 40 | 60 seconds |
+| Long | 80 | 90 seconds |
+
+### Winning
+- First across final checkpoint wins
+- After first place finishes, remaining racers have limited time
+- Prize pool split based on finishing position
+- ELO rating increases for winners
 
 ### Police Risk
 - Street racing is illegal

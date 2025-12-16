@@ -93,6 +93,7 @@ Press **F10** or type `/help` to open the in-game guidebook.
 - **Car Transporter** - Multi-vehicle transport with NUI controls
 
 ### Entertainment
+- **rcore_races** - Street racing with checkpoints, betting, ELO ratings
 - **rcore_dragrace** - Quarter-mile drag racing
 - **Pata_RcRace** - RC car racing
 - Multiple RCore activities (arcade, bowling, golf, etc.)
