@@ -121,11 +121,18 @@ Dirty money needs cleaning:
 
 ## Gangs
 
+![Vagos Territory](../images/crime/vagos-projects.webp)
+
+*Vagos control the Jamestown projects*
+
 The gang system (rcore_gangs) offers:
 - Territory control
 - Corner selling
 - Crew organization
-- Gang wars
+
+![Gang Life](../images/crime/gangs.webp)
+
+*Street life in Los Santos*
 
 ## Risk Levels
 

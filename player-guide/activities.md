@@ -2,6 +2,10 @@
 
 Los Santos offers plenty of ways to have fun beyond work.
 
+![Arcade](../images/activities/arcade.webp)
+
+*The arcade - classic games and good times*
+
 ## RCore Activities
 
 ### Arcade Games
@@ -52,6 +56,10 @@ Los Santos offers plenty of ways to have fun beyond work.
 
 ## Outdoor Activities
 
+![Fishing](../images/activities/fishing.webp)
+
+*Relaxing by the water with a fishing rod*
+
 ### Camping
 - Set up camp anywhere
 - Campfires and cooking
@@ -71,6 +79,10 @@ Los Santos offers plenty of ways to have fun beyond work.
 - Tracking skills
 
 ## Entertainment Venues
+
+![Casino Roulette](../images/activities/casino-roulette.webp)
+
+*Try your luck at the Diamond Casino*
 
 ### Diamond Casino
 **Location:** Vinewood
@@ -93,16 +105,33 @@ Los Santos offers plenty of ways to have fun beyond work.
 
 ## Social Activities
 
+![Bahama Mamas](../images/activities/bahama-mamas.webp)
+
+*Party the night away at Bahama Mamas*
+
 ### Bars & Clubs
 - Live DJ events
 - Dance floors
 - VIP bottle service
 - Karaoke nights
 
+![Biker Bar](../images/activities/biker-bar.webp)
+
+*Or keep it lowkey at the local biker bar*
+
 ### Restaurants
+
+![Burger Shot](../images/activities/burger-shot.webp)
+
+*Grab a bite at Burger Shot*
+
 - Sit-down dining
 - Date night spots
 - Group gatherings
+
+![Up-n-Atom](../images/activities/up-n-atom.webp)
+
+*Or hit up Up-n-Atom for some fast food*
 
 ## Sports & Racing
 

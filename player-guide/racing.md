@@ -120,8 +120,16 @@ Radio-controlled car racing on miniature tracks!
 
 ## Street Racing
 
+![JDM Street Racing](../images/racing/jdm-race.webp)
+
+*JDM culture runs deep in Los Santos*
+
 ### Underground Scene
 Illegal street racing for those who dare.
+
+![Koreatown JDM Scene](../images/racing/jdm-koreatown.webp)
+
+*Late night meets in Koreatown*
 
 ### Finding Races
 - Word of mouth

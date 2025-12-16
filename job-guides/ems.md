@@ -147,6 +147,10 @@ As EMS, you save lives across San Andreas by responding to medical emergencies a
 
 ## Vehicles
 
+![Air Ambulance](../images/ems/air-ambulance.webp)
+
+*Air medical response for critical patients*
+
 ### Ground Units
 | Vehicle | Type |
 |---------|------|

@@ -60,6 +60,10 @@ The tablet is your main tool for all services.
 
 ## Repair Services
 
+![Garage Work](../images/mechanic/garage-work.webp)
+
+*Mechanics at work in the shop*
+
 ### Damage Types
 | Damage | Repair Method |
 |--------|---------------|
@@ -182,6 +186,10 @@ If you're a shop owner/manager:
 1. Be at shop location
 2. Have boss grade
 3. Open boss menu (F6 or interaction)
+
+![Street Bike](../images/mechanic/street-bike.webp)
+
+*Motorcycle service available*
 
 ## Tow Service
 

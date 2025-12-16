@@ -31,6 +31,10 @@ Staff can use `/logout` to return to character selection.
 
 After selecting your character, choose where to spawn.
 
+![Del Perro Pier](../images/locations/delperro-pier.webp)
+
+*Del Perro Pier - A popular spawn location*
+
 ### Available Spawn Locations
 | Location | Area | Description |
 |----------|------|-------------|
@@ -81,6 +85,10 @@ Legal ways to earn money:
 
 ## Essential Locations
 
+![Downtown Los Santos](../images/locations/city-scene.webp)
+
+*Downtown Los Santos - The heart of the city*
+
 | Location | Purpose |
 |----------|---------|
 | Maze Bank | Banking, ATMs |
@@ -88,6 +96,10 @@ Legal ways to earn money:
 | MRPD | Police station |
 | Los Santos Customs | Vehicle modifications |
 | Premium Deluxe Motorsport | Buy vehicles |
+
+![Maze Bank Tower](../images/locations/mazebank.webp)
+
+*Maze Bank Tower - Handle your finances here*
 
 ## Basic Controls
 

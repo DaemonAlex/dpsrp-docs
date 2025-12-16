@@ -38,6 +38,10 @@ Comprehensive guide to law enforcement on DPSRP.
 
 ## Duty System
 
+![Mission Row PD](../images/police/mission-row.webp)
+
+*Mission Row Police Department - LSPD Headquarters*
+
 ### Clocking In
 1. Go to your department (Mission Row PD for LSPD)
 2. Access the duty point
@@ -67,6 +71,10 @@ Comprehensive guide to law enforcement on DPSRP.
 - Suspects can attempt escape (skill check)
 - Auto-uncuff after 20 minutes
 - Lockpicking possible with bobby pins
+
+![Traffic Stop](../images/police/traffic-stop.webp)
+
+*Conducting a traffic stop*
 
 ### Player Interactions
 - Search players for items
@@ -274,6 +282,10 @@ Speed detection laser gun.
 
 ## Vehicles
 
+![BCSO Bearcat](../images/police/bearcat.webp)
+
+*BCSO Tactical Unit*
+
 ### Available Units
 | Vehicle | Type |
 |---------|------|
@@ -306,6 +318,10 @@ Speed detection laser gun.
 - **Vehicle Garage:** Rear of building
 
 ## Jail System
+
+![Interrogation Room](../images/police/interrogation.webp)
+
+*Interrogation in progress*
 
 Integration with rcore-prison:
 - Process arrests at station
