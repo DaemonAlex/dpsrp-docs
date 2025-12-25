@@ -28,6 +28,7 @@ Official documentation for the DPSRP V1.5 FiveM Roleplay Server.
 
 #### Activities & Entertainment
 - [Activities & Entertainment](player-guide/activities.md) - Things to do in Los Santos
+- [Hidden Interiors](player-guide/hidden-interiors.md) - GTA Online IPL teleport locations
 - [Racing](player-guide/racing.md) - Drag racing, RC racing, street racing
 - [Miscellaneous Activities](player-guide/misc-activities.md) - Skating, hitchhiking, and more
 
