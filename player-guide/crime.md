@@ -1,190 +1,364 @@
-# Crime & Illegal Activities
-
-General overview of criminal opportunities in Los Santos. Discovery is part of the experience - this guide covers what exists, not step-by-step instructions.
+# Crime & The Underworld
 
 ![Criminal Activity](../images/crime/robbers.webp)
 
-*The criminal underworld of Los Santos*
+*The law has rules. The streets have different ones.*
 
-## Important Notes
+---
 
-- All criminal activity carries risk of police response
-- "Value your life" rules apply during confrontations
-- Minimum police requirements exist for major heists
-- Consequences include jail time, fines, and criminal record
+## A Word of Warning
 
-## Robbery Systems (Wasabi)
+> *"Everyone's got a plan until the cops show up."*
 
-All major robberies use Wasabi scripts with consistent features:
-- Minimum police requirements
-- Global cooldowns between attempts
-- Multiple entry methods (hacking, thermite, drilling, C4)
-- Skill-check minigames
-- Police camera integration
-- Discord logging
+Crime in Los Santos isn't a game mechanic - it's a **lifestyle choice** for your character. The money's good. The freedom's intoxicating. But the consequences?
 
-### Store Robberies
+Those are real too.
 
-**Ammunation (wasabi_ammunationrobbery)**
-- Rob ammunition stores for weapons/cash
-- Higher risk than convenience stores
-- Police alerts triggered
+**Before you continue, understand:**
+- Police WILL respond
+- Jail time WILL happen
+- Your record WILL follow you
+- Bad decisions WILL cost you
 
-**24/7 & Liquor Stores**
-- Quick cash, low risk
-- Good starting point for criminals
+Still interested? Let's talk business.
 
-### Bank Heists
+---
+
+## The Criminal Ladder
+
+Not all crime is created equal. There's a progression - a ladder from petty theft to organized empire.
+
+### Tier 1: Street Level
+
+![Gang Territory](../images/crime/vagos-projects.webp)
+
+*The Jamestown projects - Where careers begin*
+
+| Activity | Risk | Reward | Cop Requirement |
+|----------|------|--------|-----------------|
+| **Shoplifting** | Low | $ | None |
+| **Drug Sales** | Low-Med | $ | None |
+| **Car Theft** | Medium | $$ | None |
+| **Mugging** | Medium | $ | None |
+
+> **Starting Out:**
+> *Your hands shake as you stuff the convenience store candy into your jacket. The clerk's back is turned. The door is right there. This is stupid. This is so stupid. But rent was due yesterday and—the door chimes as you push through. Fresh air. Freedom. You're a criminal now. For a $3 candy bar.*
+
+### Tier 2: Organized Crime
+
+| Activity | Risk | Reward | Cop Requirement |
+|----------|------|--------|-----------------|
+| **Store Robbery** | Medium | $$ | None |
+| **Drug Production** | Medium | $$$ | None (raidable) |
+| **Fleeca Banks** | High | $$$ | 2+ cops |
+
+### Tier 3: The Big Leagues
 
 ![Bank Heist](../images/crime/bank-heist.webp)
 
-*Planning the big score*
+*Pacific Standard - The score everyone dreams about*
 
-**Fleeca Banks (wasabi_fleecarobberies)**
-- Entry-level bank jobs
-- Multiple locations across LS
-- Lower police requirement
-- Good for learning heist mechanics
+| Activity | Risk | Reward | Cop Requirement |
+|----------|------|--------|-----------------|
+| **Pacific Standard** | Extreme | $$$$ | 4+ cops |
+| **Yacht Heist** | Extreme | $$$$ | 4+ cops |
+| **Jewelry Store** | High | $$$ | 3+ cops |
 
-**Paleto Bay Bank (wasabi_paletorobbery)**
-- Blaine County Savings Bank
-- Mid-tier difficulty and reward
-- Multiple looting methods:
-  - Drilling
-  - Grabbing trollies
-  - Collecting cash stacks
-- Door access via: C4, thermite, laptop hacking, USB, drilling
-- Laser security zones (disable via minigames)
-- Loot sold at separate fence location
+---
 
-**Pacific Standard (wasabi_pacificrobbery)**
-- The BIG one - largest bank in Los Santos
-- Highest police requirement
-- Complex multi-stage heist
-- Entry methods:
-  - C4 bombing
-  - Thermite bombing
-  - Laptop/USB hacking
-  - Drilling
-- Laser security throughout (contact = damage)
-- Multiple looting areas and methods
-- Police can monitor via camera system
-- Supports multiple MLO versions (default, K4MB1, Gabz)
+## Robbery Systems
 
-### Jewelry Heist
+### Store Robberies
 
-**Vangelico (wasabi_vangelicorobbery)**
-- High-end jewelry store
-- Smash and grab mechanics
-- Fence valuable items for profit
+The entry point for any aspiring criminal.
 
-### Special Heists
+**How It Works:**
+1. Find a store (24/7, liquor stores)
+2. Wait for the right moment
+3. Threaten the clerk
+4. Clean out the register
+5. **Get out fast**
 
-**Yacht Heist (wasabi_yachtheist)**
-- Maritime operation
-- Board and loot luxury yacht
-- High risk, high reward
-- Escape by sea or air
+> **RP Scenario:**
+> *"Open the register. Now." Your voice cracks. The clerk's hands tremble as she presses the buttons. "Please, I have kids—" You didn't expect this. In the movies, nobody talks. "Just... just hurry up." The drawer pops open. Sirens in the distance. Time to go.*
 
-**Smuggler's Run**
-- Contact the smuggler near the docks (night time only, wear a mask)
-- Pay upfront fee to receive mission details
-- Collect cargo from remote locations
-- Fly cargo planes to private airstrips
-- Hack intel stations and communications towers
-- Deliver goods to contacts for payout
-- 50% police alert chance on contact
-- 20 minute cooldown between runs
+**Tips:**
+- Masks on **before** you enter
+- Have a getaway driver
+- Don't hurt the clerk (it's worse charges)
+- Know your escape route
 
-## Drug Trade
+### Ammunation Hits
+
+Higher risk, better rewards. These shops have **weapons**, which means:
+- Armed employees possible
+- Faster police response
+- Better loot
+
+### Fleeca Banks
+
+![Bank Job](../images/crime/Bankheist1.webp)
+
+*Small banks, big dreams*
+
+Your first "real" job. Fleeca branches are scattered across the city - smaller, easier to crack, but still a serious crime.
+
+**Requirements:**
+- Minimum 2 cops online
+- Hacking/lockpicking tools
+- A solid crew (2-4 recommended)
+- Getaway vehicle(s)
+
+**The Process:**
+1. **Entry** - Hack, drill, or blow the door
+2. **Control** - Handle civilians, watch for cops
+3. **Vault** - Crack the safe
+4. **Escape** - The hardest part
+
+> **Inside the Vault:**
+> *The drill screams against steel. Your lookout's voice crackles in your ear: "Cops, two minutes out." The safe door groans. "Come on, come on..." It swings open. Stacks of cash. Beautiful. "Thirty seconds!" You grab everything you can. Time to run.*
+
+### Paleto Bay Savings
+
+**Mid-tier difficulty.** More security, more cash, more heat.
+
+**Entry Methods:**
+- C4 (loud)
+- Thermite (medium)
+- Laptop hacking (quiet)
+- Drilling (slow but reliable)
+
+**Special Challenges:**
+- Laser security grids
+- Multiple vaults
+- Remote location (long police response, but also long escape)
+
+### Pacific Standard
+
+The **crown jewel**. The score that makes legends or prisoners.
+
+![Heist Planning](../images/crime/drill.webp)
+
+*Every detail matters*
+
+**Why It's Legendary:**
+- Highest payout in the city
+- Maximum security
+- Requires 4+ cops online
+- Multiple stages
+- Everything can go wrong
+
+**What You're Up Against:**
+- Laser security throughout
+- Reinforced doors
+- Camera systems (cops can monitor)
+- SWAT response likely
+
+> **The Moment of Truth:**
+> *You stand in the vault. More money than you've ever seen. Your crew is loading bags. Outside, you can hear the sirens - dozens of them. The helicopter's searchlight sweeps past the window. This is it. The moment you either become a legend or spend the next decade in Bolingbroke. Deep breath. "Let's move."*
+
+---
+
+## The Drug Trade
 
 ![Drug Runner](../images/crime/drug-runner.webp)
 
-*Running product through Blaine County*
+*Blaine County back roads - Where product moves*
 
 Two paths to profit:
 
-### Production Path
-- Lower risk, steady income
-- Grow/cook your own product
-- Requires setup and maintenance
-- Locations can be raided
+### Production
 
-**Products:**
-- Weed - Cultivation system
-- Meth - Laboratory cooking
-- Cocaine - Processing operation
-- Crack - Secondary product
+**Lower risk, steady income.** You're not on the street - you're the supplier.
 
-### Runs & Deliveries
-- Higher risk, larger payouts
-- Pre-packaged product runs
-- Police alerts triggered
-- Requires minimum cops online
+| Product | Complexity | Profit Margin |
+|---------|------------|---------------|
+| **Weed** | Low | $ |
+| **Cocaine** | Medium | $$$ |
+| **Meth** | High | $$$$ |
 
-## Money Laundering
+**The Setup:**
+- Find/buy a location
+- Get equipment
+- Source materials
+- Maintain production
+- Avoid raids
 
-Dirty money needs cleaning:
-- Various laundering methods available
-- Conversion rates apply
-- Some methods riskier than others
+> **The Cook:**
+> *The lab hums with equipment. Beakers bubble. You've done this a hundred times, but one wrong move and the whole place goes up. Sweat drips down your temple. Chemistry was never your strong suit in school. Funny how things change.*
 
-## Gangs
+### Street Sales
+
+**Higher risk, faster cash.** You're moving product directly.
+
+**Corner Selling:**
+- Find a good spot
+- Watch for cops
+- Know your customers
+- Don't stay in one place too long
+
+> **The Deal:**
+> *The car pulls up slow. Window rolls down. "You got it?" You nod, lean in close. Money changes hands. Product disappears into the car. They drive off. You check the cash. Short. Always short. But what are you gonna do, call the cops?*
+
+---
+
+## Gang Life
+
+![Gang Members](../images/crime/gangs.webp)
+
+*Family isn't always blood*
+
+Gangs offer something solo criminals don't have: **backup**.
+
+### What Gangs Provide
+
+| Benefit | Description |
+|---------|-------------|
+| **Territory** | Areas you control |
+| **Protection** | Brothers watching your back |
+| **Resources** | Shared income, supplies |
+| **Identity** | Colors, signs, reputation |
+
+### Gang Activities
+
+- **Territory control** - Claim and defend your turf
+- **Corner selling** - Drug distribution
+- **Crew missions** - Organized operations
+- **Rival conflicts** - War has consequences
+
+> **The Meeting:**
+> *"You want in?" The OG stares at you, arms crossed. Behind him, the crew watches. "Once you're in, you're in for life. This ain't a job. It's family." You look around the room. These aren't strangers anymore. They're brothers. You nod. He extends a fist. "Welcome to the set."*
 
 ![Vagos Territory](../images/crime/vagos-projects.webp)
 
 *Vagos control the Jamestown projects*
 
-The gang system (rcore_gangs) offers:
-- Territory control
-- Corner selling
-- Crew organization
+---
 
-![Gang Life](../images/crime/gangs.webp)
+## Special Operations
 
-*Street life in Los Santos*
+### Smuggler's Run
 
-## Risk Levels
+Late night. Mask on. Find the smuggler near the docks.
 
-| Activity | Risk | Reward | Cop Requirement |
-|----------|------|--------|-----------------|
-| Store Robbery | Low | Low | None |
-| Drug Production | Medium | Medium | None (but raidable) |
-| Fleeca | Medium | Medium | 2+ |
-| Drug Runs | High | High | 2+ |
-| Pacific Standard | Very High | Very High | 4+ |
-| Yacht Heist | Very High | Very High | 4+ |
+**How It Works:**
+1. Pay the upfront fee
+2. Receive mission details
+3. Collect cargo from remote locations
+4. Fly to private airstrips
+5. Deliver to contacts
 
-## Police Response
+**Risks:**
+- 50% chance police get alerted on contact
+- 20 minute cooldown between runs
+- Long distances, exposed routes
 
-Criminal activity may trigger:
-- Silent alarms
-- Dispatch alerts
-- Active pursuit
-- Helicopter response
-- Negotiation scenarios
+### Yacht Heist
 
-## Consequences
+Maritime operation. Board a luxury yacht, take everything.
 
-If caught:
-- Fines based on charges
-- Jail time
-- Criminal record
-- Asset seizure possible
-- Parole conditions
+**Requirements:**
+- 4+ cops online
+- Boat or helicopter access
+- Good crew
+- Exit strategy (sea or air)
 
-## Tips
+---
 
-1. **Scout first** - Know your exits
-2. **Team up** - Some jobs need crews
-3. **Watch for cops** - Check requirements
-4. **Have a plan** - Escape routes matter
-5. **RP it out** - Make it interesting
+## When It Goes Wrong
 
-## Disclaimer
+### Police Response
 
-This guide exists for RP awareness. The server encourages:
-- Balanced criminal/legal gameplay
-- Quality RP over grinding
-- Realistic consequences
-- Respect for all players
+| Crime Level | Response |
+|-------------|----------|
+| **Petty** | 1-2 units |
+| **Robbery** | 3-4 units |
+| **Bank Job** | Full response |
+| **Major Heist** | SWAT + Air |
+
+![K9 Chase](../images/police/k9-chase.webp)
+
+*They will find you*
+
+### Getting Caught
+
+**What Happens:**
+1. **Arrest** - You're going in
+2. **Processing** - Charges filed
+3. **Court** - Maybe (if you want to fight it)
+4. **Jail Time** - Based on charges
+5. **Record** - Follows you forever
+
+> **The Ride:**
+> *The handcuffs bite into your wrists. The cop reads you your rights, but the words blur together. In the rearview mirror, you watch your freedom disappear. The score failed. The crew scattered. And now? Now you're just another number in the system.*
+
+### Consequences
+
+| Charge | Fine | Jail Time |
+|--------|------|-----------|
+| Petty Theft | $ | Minutes |
+| Armed Robbery | $$$ | Hours |
+| Bank Robbery | $$$$ | Serious |
+| Murder | $$$$$ | Extreme |
+
+---
+
+## The Criminal's Code
+
+Not rules - guidelines. Honor among thieves.
+
+### 1. Don't Snitch
+Nobody likes a rat. Even cops respect criminals who don't talk.
+
+### 2. Keep Your Word
+Your reputation is everything. Break a deal once, nobody deals with you again.
+
+### 3. Know When to Fold
+Greed kills. Take the score and run. Don't push your luck.
+
+### 4. Respect the RP
+This is a story, not a grind. Make it interesting for everyone - including the cops chasing you.
+
+> **The Choice:**
+> *The cop's got you cornered. Alley dead end. Gun trained on your chest. "Drop it!" You could shoot. Maybe you'd get lucky. But probably not. The gun clatters to the ground. "Alright. You got me." The cop lowers his weapon slightly. "Smart choice." At least you'll live to try again.*
+
+---
+
+## Building a Reputation
+
+**In crime, your name matters.**
+
+| Reputation | Effect |
+|------------|--------|
+| **Unknown** | Nobody trusts you |
+| **Up-and-comer** | Getting noticed |
+| **Reliable** | People seek you out |
+| **Legendary** | Crews want you, cops fear you |
+
+How to build it:
+- Complete jobs successfully
+- Don't rat
+- Pay your debts
+- Help your crew
+- Stay alive
+
+---
+
+## The Bottom Line
+
+![Street Life](../images/crime/gangs2.webp)
+
+*The streets remember everything*
+
+Crime isn't just about money. It's about the stories you tell, the reputation you build, and the life you choose.
+
+Some players rob banks to get rich.
+The best players rob banks to create **memorable moments**.
+
+The money disappears. The stories? Those last forever.
+
+> *"I'm not in this for the cash. I'm in it for the rush. For the moment when everything's on the line and you either make it or you don't. That moment when you're truly alive."*
+
+---
+
+**Choose wisely. The city is watching.**

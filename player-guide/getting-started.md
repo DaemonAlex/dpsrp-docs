@@ -1,143 +1,226 @@
 # Getting Started
 
-Welcome to DPSRP! This guide will help you get started on your journey in Los Santos.
-
 ![Welcome to Los Santos](../images/general/sunset-delperro.webp)
 
-*Welcome to Los Santos - Your new life awaits*
+*The sun sets on Del Perro Beach. Somewhere out there, your story is about to begin.*
 
-## Character Selection (wasabi_multichar)
+---
 
-When you first connect, you'll see the character selection screen.
+Welcome to **DPSRP** - a roleplay server where every player writes their own story. Whether you want to become a respected police officer, a notorious crime boss, a humble taxi driver, or anything in between, it all starts here.
+
+> **Your First Moment:**
+> *You step off the bus at Legion Square, squinting in the California sun. The city stretches before you - towering skyscrapers, palm-lined boulevards, and endless possibilities. A stranger bumps past you, muttering an apology. In the distance, sirens wail. This is Los Santos. This is home now.*
+
+---
+
+## Creating Your Character
+
+When you first connect, you'll enter the **character selection screen** - your gateway to a new life.
 
 ### Character Slots
-- **4 Standard Slots** - Available to all players
-- **VIP Slots** - Additional slots for supporters
 
-### Creating a New Character
-1. Select an empty character slot
-2. **Customize appearance** - Design your character's look
-3. **Set identity** - First name, last name, date of birth, nationality
-4. **Confirm creation** - Your character is saved
+| Slot Type | Available |
+|-----------|-----------|
+| **Standard Slots** | 4 characters |
+| **VIP Slots** | Additional for supporters |
 
-### Managing Characters
-- **Select** - Click on a character to play them
-- **Delete** - Remove characters you no longer want (if enabled)
+### Building Your Identity
 
-### Switching Characters
-Staff can use `/logout` to return to character selection.
+This is the most important decision you'll make. Your character isn't just a name - they're a **person** with a history, goals, and a personality.
 
-## Spawn Selection (wasabi_spawn)
+**Think about:**
+- Where did they come from?
+- Why did they move to Los Santos?
+- What do they want out of life?
+- What are their flaws?
 
-After selecting your character, choose where to spawn.
+> **RP Tip:** A good character has *weaknesses*. The perfect hero is boring - but the ex-con trying to go straight? The cop haunted by a case gone wrong? That's interesting.
+
+### Creation Steps
+
+1. **Select an empty slot** - Pick your character space
+2. **Design your look** - Customize face, hair, body type
+3. **Set your identity** - First name, last name, birthday, nationality
+4. **Confirm** - Your new life begins
+
+---
+
+## Choosing Where to Begin
 
 ![Del Perro Pier](../images/locations/delperro-pier.webp)
 
-*Del Perro Pier - A popular spawn location*
+*Del Perro Pier - Tourists, street performers, and the smell of funnel cake*
 
-### Available Spawn Locations
-| Location | Area | Description |
-|----------|------|-------------|
-| Del Perro Pier | Beach | Beachfront entertainment district |
-| Vespucci Beach | Coast | Muscle beach, boardwalk |
-| Pacific Bluffs | Hills | Clifftop views, luxury area |
-| Legion Square | Downtown | City center hub |
-| Grapeseed Farm | Blaine County | Rural countryside |
-| Paleto Bay Pier | North | Small-town fishing pier |
-| Paleto Bay Lodge | Mountains | Forest retreat |
-| Roxwood Medical | Roxwood | Central services |
-| Paradiso Degli Ulivi | Juniper | Coastal resort |
-| Roxwood Rangers | Wilderness | State park outpost |
+After creating your character, you'll choose a **spawn location**. Each area has its own vibe:
 
-### Spawn Options
-- **Last Location** - Spawn where you logged out (after first spawn)
-- **Select Location** - Choose from available spawn points
-- **Property** - Spawn at your owned home (if applicable)
+### Urban Spawns
 
-## First Steps After Spawning
+| Location | Vibe | Good For |
+|----------|------|----------|
+| **Legion Square** | Busy downtown hub | Meeting people, central access |
+| **Del Perro Pier** | Beachfront entertainment | Casual RP, tourism |
+| **Vespucci Beach** | Muscle beach, boardwalk | Fitness RP, beach life |
 
-### 1. Get Your Phone
-Your phone is your lifeline in Los Santos. It handles:
-- Calls and text messages
-- Banking app
-- Job applications
-- Social media
-- GPS navigation
+### Suburban & Rural Spawns
 
-### 2. Visit the Bank
-Head to a Maze Bank location to:
-- Set up your bank account
-- Deposit starting cash
-- Get a debit card
+| Location | Vibe | Good For |
+|----------|------|----------|
+| **Grapeseed Farm** | Quiet countryside | Peaceful start, farming RP |
+| **Paleto Bay** | Small-town America | Slower pace, close community |
+| **Roxwood** | Central services area | Quick access to essentials |
 
-### 3. Get Transportation
-Options for getting around:
-- **Walk/Run** - Free but slow
-- **Bus** - Public transit available
-- **Taxi** - Call a taxi from your phone
-- **Buy a vehicle** - Visit a dealership when you have funds
+> **RP Scenario:**
+> *"Fresh start," you mutter, stepping onto Paleto Bay pier. The fishing boats creak against their moorings. An old man looks up from his tackle box. "New in town?" he asks. You nod. He gestures to the stool beside him. "Pull up a seat. Fish ain't biting anyway."*
 
-### 4. Find a Job
-Legal ways to earn money:
-- Visit job centers around the city
-- Talk to NPCs at business locations
-- Check job postings in the newspaper/phone
+---
 
-## Essential Locations
+## Your First 30 Minutes
 
 ![Downtown Los Santos](../images/locations/city-scene.webp)
 
-*Downtown Los Santos - The heart of the city*
+*The city never sleeps - and neither do the opportunities*
 
-| Location | Purpose |
-|----------|---------|
-| Maze Bank | Banking, ATMs |
-| Pillbox Hospital | Medical treatment |
-| MRPD | Police station |
-| Los Santos Customs | Vehicle modifications |
-| Premium Deluxe Motorsport | Buy vehicles |
+### Step 1: Get Your Phone
+
+Your **phone** (press `F1`) is your lifeline. It handles:
+
+| App | What It Does |
+|-----|--------------|
+| **Calls/Texts** | Contact other players |
+| **Bank** | Check balance, transfer money |
+| **GPS** | Navigate the city |
+| **Jobs** | Find employment |
+| **Social Media** | Stay connected |
+
+### Step 2: Handle Your Money
 
 ![Maze Bank Tower](../images/locations/mazebank.webp)
 
-*Maze Bank Tower - Handle your finances here*
+*Maze Bank - Where dreams are funded (or crushed)*
 
-## Basic Controls
+Visit any **Maze Bank** location to:
+- Open your bank account
+- Deposit your starting cash (**keep it safe!**)
+- Get a debit card
+
+> **Pro Tip:** Never carry all your cash on you. If you get robbed, you lose what's in your pockets. Bank it!
+
+### Step 3: Get Moving
+
+**Walking everywhere gets old fast.** Your options:
+
+| Method | Cost | Notes |
+|--------|------|-------|
+| **Walking** | Free | Slow but scenic |
+| **Bus** | Cheap | Fixed routes, schedules |
+| **Taxi** | $$ | Call from phone, door-to-door |
+| **Buy a car** | $$$ | Visit PDM when you save up |
+
+### Step 4: Find Work
+
+No money means no food, no rent, no life. **Get a job:**
+
+- Look for NPCs at businesses (they have interaction prompts)
+- Check job centers around the city
+- Ask other players - networking matters!
+
+> **RP Scenario:**
+> *The manager at Burger Shot looks you up and down. "You got experience?" You hesitate. "I... can learn fast?" She sighs, slides a uniform across the counter. "Everyone starts somewhere. Don't burn the patties."*
+
+---
+
+## Essential Controls
+
+Master these and you'll master the city:
+
+### Movement & Interaction
 
 | Key | Action |
 |-----|--------|
-| F1 | Phone |
-| F2 | Inventory |
-| F10 | Help/Guidebook |
-| E | Interact |
-| G | Radial Menu |
-| T | Chat |
-| M | Map |
-| X | Hands Up |
-| Z | Crouch |
+| `W A S D` | Move around |
+| `Shift` | Sprint |
+| `E` | Interact with objects/people |
+| `G` | Open radial menu |
+| `Left Alt` | Target system (hold) |
 
-## Server Rules Summary
+### Communication
 
-1. **Respect all players** - No harassment or discrimination
-2. **Stay in character** - This is a roleplay server
-3. **No RDM/VDM** - Don't randomly kill or run over players
-4. **Value your life** - Act realistically in dangerous situations
-5. **No metagaming** - Don't use out-of-character information in RP
+| Key | Action |
+|-----|--------|
+| `T` | Open text chat |
+| `N` | Push-to-talk (voice) |
+| `` ` `` | Cycle voice range (whisper/normal/shout) |
+| `Y` | Quick /me command |
 
-For full rules, type `/rules` in-game or check the Discord.
+### Essential Menus
+
+| Key | Opens |
+|-----|-------|
+| `F1` | Your phone |
+| `F2` | Inventory |
+| `F5` | Emote menu |
+| `F10` | This guidebook |
+| `M` | Map |
+| `Escape` | Pause menu |
+
+---
+
+## The Golden Rules
+
+These aren't suggestions - they're the foundation of good roleplay:
+
+### 1. Stay In Character
+You're not *you* - you're your character. React as they would, not as you would.
+
+### 2. Value Your Life
+If someone points a gun at you, **act scared**. Your character doesn't want to die.
+
+> **Wrong:** *Gets shot at* "Whatever, I'll just respawn."
+>
+> **Right:** *Hands shake as you slowly raise them* "Please... I have a family..."
+
+### 3. No Random Violence
+Every conflict needs a **reason**. Don't just attack people for fun.
+
+### 4. No Metagaming
+If you learned it on Discord, your character doesn't know it. Period.
+
+### 5. Respect Everyone
+Behind every character is a real person. Be cool.
+
+---
 
 ## Getting Help
 
-- **F10** - Open the in-game guidebook
-- `/help` - Same as F10
-- `/report** - Report issues to staff
-- **Discord** - Ask in the help channel
+Lost? Confused? We've all been there.
 
-## Next Steps
+| Method | When To Use |
+|--------|-------------|
+| `F10` / `/help` | Open this guidebook |
+| `/report [message]` | Contact staff for issues |
+| **Discord #help** | Ask the community |
+| **Ask in-character** | Best way to learn! |
 
-Once you're settled:
-1. Explore the city and find activities
-2. Apply for jobs that interest you
-3. Meet other players and create stories
-4. Build your reputation and career
+> **RP Tip:** Don't be afraid to ask other characters for directions or help. It's great RP and most players love helping newcomers in character.
 
-Welcome to Los Santos!
+---
+
+## Your Story Starts Now
+
+![Beach at Sunset](../images/locations/beach.webp)
+
+*Every legend started with a first step*
+
+You've got the basics. Now comes the real adventure:
+
+1. **Explore** - The city is massive. Get lost in it.
+2. **Talk to people** - Every stranger could become your best friend or worst enemy
+3. **Take risks** - The best stories come from unexpected moments
+4. **Build your reputation** - Your name will mean something eventually
+5. **Have fun** - This is a game. Enjoy it.
+
+> *Six months from now, you might be running a business empire. You might be the city's most wanted criminal. You might be the cop who finally brings them down. The only question is: what's your first move?*
+
+---
+
+**Welcome to Los Santos. Make it count.**
