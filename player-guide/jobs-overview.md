@@ -48,6 +48,10 @@ DPSRP offers over 60 different careers across multiple industries. Here's a comp
 
 ### Food & Hospitality
 
+![Cluckin Bell](../images/activities/clucknbell.webp)
+
+*Serve up some tasty RP*
+
 #### Fast Food
 - Burger Shot (4 locations)
 - Cluckin Bell

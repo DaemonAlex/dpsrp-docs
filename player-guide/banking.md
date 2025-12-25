@@ -51,6 +51,10 @@ Send money to other players:
 
 ## Phone Banking
 
+![Mobile Banking](../images/phone/using%20phone2.jpg)
+
+*Bank on the go*
+
 Access your account via the lb-phone banking app:
 - Check balance
 - Recent transactions

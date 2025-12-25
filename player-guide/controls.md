@@ -1,5 +1,9 @@
 # Controls & Keybinds
 
+![Using Phone](../images/phone/using%20phone.jpg)
+
+*Master the controls and you'll master the city*
+
 Complete list of keyboard controls for DPSRP.
 
 ## General Controls

@@ -1,5 +1,9 @@
 # Hidden Interiors (GTA Online IPLs)
 
+![Luxury Apartment](../images/housing/apartment2.webp)
+
+*Discover hidden locations throughout Los Santos*
+
 Los Santos contains many hidden interiors from GTA Online that are accessible throughout the city. Look for **NPC guides** standing near building entrances - they can teleport you inside these exclusive locations.
 
 ## How It Works
@@ -42,6 +46,10 @@ High-rise executive offices for the business elite.
 - Garage
 
 ## Nightlife & Entertainment
+
+![Diamond Casino](../images/activities/casino%20rain.webp)
+
+*High-stakes entertainment*
 
 ### Diamond Casino & Resort
 **Location:** Vinewood
@@ -87,6 +95,10 @@ High-rise executive offices for the business elite.
 - **Low-End Garage** - Route 68
 
 ## MC Clubhouses
+
+![Biker Bar](../images/activities/biker-bar.webp)
+
+*Ride or die*
 
 ### Grapeseed Clubhouse
 **Location:** Grapeseed

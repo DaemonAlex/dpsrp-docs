@@ -1,5 +1,9 @@
 # Miscellaneous Activities Guide
 
+![Arcade Fun](../images/activities/arcade.webp)
+
+*Endless entertainment awaits*
+
 All the other fun things to do on DPSRP!
 
 ## Roller Skating
@@ -161,6 +165,10 @@ Player-driven transportation service - like being an Uber driver!
 
 ## Social Spots
 
+![Nightclub Scene](../images/activities/bahamamammas.webp)
+
+*Party the night away*
+
 ### Nightclubs
 - Bahama Mamas
 - Tequi-la-la
@@ -190,6 +198,11 @@ Player-driven transportation service - like being an Uber driver!
 - Audience participation
 
 ### Casino
+
+![Casino Floor](../images/activities/casino%20play%20roulette.webp)
+
+*Try your luck at the tables*
+
 - Gambling games
 - Slot machines
 - Card tables

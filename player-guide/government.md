@@ -66,6 +66,10 @@ The city holds elections for:
 
 ## Taxes: The Unavoidable Truth
 
+![Maze Bank](../images/banking/mazebank.webp)
+
+*Where your money goes*
+
 *"In this world, nothing is certain except death and taxes."* - Benjamin Franklin (probably playing GTA)
 
 ### What Gets Taxed

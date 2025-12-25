@@ -73,6 +73,10 @@ Before buying, take it for a spin:
 
 ## Vehicle Categories
 
+![Premium Showroom](../images/vehicles/car%20show%20room%20interior.jpg)
+
+*Every budget, every style*
+
 ### By Price Range
 | Category | Price Range |
 |----------|-------------|

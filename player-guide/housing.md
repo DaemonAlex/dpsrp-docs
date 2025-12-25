@@ -55,6 +55,10 @@ The housing system (qs-housing) allows you to purchase and customize your own ho
 
 ## Managing Your Property
 
+![High-Rise Living](../images/housing/apartment4.jpg)
+
+*Views for days*
+
 ### Access
 - Use keys to enter (item in inventory)
 - Give keys to trusted players

@@ -101,6 +101,10 @@ Design your production chain using a flowchart interface:
 
 ## Selling Products
 
+![Mining Operation](../images/jobs/Abandoned-Mine-Outside-GTAV.webp)
+
+*Production facilities across the state*
+
 ### Trademarket
 - Sell finished products
 - Set your prices

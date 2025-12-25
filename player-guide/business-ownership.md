@@ -42,6 +42,10 @@ Certain jobs have "boss" positions that can manage employees and company funds.
 
 ## Purchasable Businesses (qb_business)
 
+![Maze Bank Tower](../images/locations/mazebank.webp)
+
+*Prime real estate for ambitious entrepreneurs*
+
 ### Available Properties
 
 | Business | Price | Type |

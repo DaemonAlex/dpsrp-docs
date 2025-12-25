@@ -1,5 +1,7 @@
 # Documents & Paperwork
 
+![City Hall Lobby](../images/court/lobby.png)
+
 *"Sign here, initial there, and don't forget the notary stamp!"*
 
 Welcome to the wonderful world of official documents. From business licenses to restraining orders, if it needs paper, we've got you covered.
