@@ -1,6 +1,6 @@
 # Banking Guide
 
-![Maze Bank Tower](../images/locations/mazebank.webp)
+![Maze Bank](../images/banking/mazebank.webp)
 
 *The financial heart of Los Santos*
 

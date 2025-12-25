@@ -1,5 +1,9 @@
 # Government & Politics
 
+![City Hall Lobby](../images/government/hotel%20lobby.webp)
+
+*Where the wheels of democracy turn (slowly)*
+
 *"Vote for me, and I promise lower taxes, better roads, and a chicken in every pot!"*
 
 Welcome to Los Santos politics, where the Mayor runs the city, taxes fund the chaos, and anyone with enough ambition (and charisma) can run for office.
