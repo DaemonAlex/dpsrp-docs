@@ -1,5 +1,9 @@
 # Banking Guide
 
+![Maze Bank Tower](../images/locations/mazebank.webp)
+
+*The financial heart of Los Santos*
+
 Managing your money in Los Santos.
 
 ## Maze Bank

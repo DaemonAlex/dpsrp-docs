@@ -1,5 +1,9 @@
 # Housing Guide
 
+![Los Santos Mansion](../images/locations/mansion.webp)
+
+*Your dream home awaits in Los Santos*
+
 Everything you need to know about owning property in Los Santos.
 
 ## Overview
@@ -29,6 +33,10 @@ The housing system (qs-housing) allows you to purchase and customize your own ho
 5. Receive keys to your new home
 
 ## Property Features
+
+![Modern Apartment Interior](../images/housing/apartment-interior-couch-phone-modern.webp)
+
+*Settle into your new space*
 
 ### Storage
 - Personal stash for items

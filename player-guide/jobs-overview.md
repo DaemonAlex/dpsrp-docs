@@ -1,5 +1,9 @@
 # Jobs Overview
 
+![Sanitation Worker](../images/jobs/trash-truck-sanitation-worker-job.webp)
+
+*Over 60 careers await - from garbage collector to CEO*
+
 DPSRP offers over 60 different careers across multiple industries. Here's a complete overview.
 
 ## How to Get a Job
@@ -77,6 +81,10 @@ DPSRP offers over 60 different careers across multiple industries. Here's a comp
 | Banker | Maze Bank |
 
 ### Labor & Trade
+
+![Industrial Work](../images/jobs/worker-drilling-industrial-workshop.webp)
+
+*Skilled trades pay well*
 
 | Job | Description |
 |-----|-------------|

@@ -1,5 +1,9 @@
 # Vehicles Guide
 
+![Car at Dealership](../images/vehicles/bmw-m-competition-rear-detail-dealership.webp)
+
+*Find your perfect ride at one of many dealerships*
+
 Everything you need to know about vehicles in DPSRP.
 
 ## Getting Your First Vehicle
@@ -31,6 +35,10 @@ Your vehicles are stored in personal garages. Access them at:
 - Transfer vehicles
 
 ## Fuel System (qs-fuel)
+
+![Gas Station](../images/vehicles/character-at-gas-station.jpg)
+
+*Keep your tank full to avoid getting stranded*
 
 ### Refueling
 1. Pull up to a gas pump
@@ -69,6 +77,10 @@ Your vehicles are stored in personal garages. Access them at:
 - Cleaning products
 
 ## Vehicle Modifications
+
+![Custom Garage](../images/vehicles/corvette-c8-red-garage.jpg)
+
+*Customize your ride at any mechanic shop*
 
 ### Performance
 - Engine upgrades

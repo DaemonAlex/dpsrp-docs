@@ -1,5 +1,9 @@
 # Business Ownership Guide
 
+![Downtown Los Santos](../images/locations/city-scene.webp)
+
+*Build your empire in the city of dreams*
+
 Become a business mogul in Los Santos.
 
 ## Overview

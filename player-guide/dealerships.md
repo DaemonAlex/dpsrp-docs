@@ -1,5 +1,9 @@
 # Vehicle Dealerships Guide
 
+![Dealership Showroom](../images/vehicles/bmw-m-competition-rear-detail-dealership.webp)
+
+*Browse the finest vehicles in Los Santos*
+
 How to buy your dream car in Los Santos.
 
 ## Overview
@@ -55,6 +59,10 @@ Financing lets you buy vehicles you can't afford outright.
 - Check payment status in phone banking app
 
 ## Test Drives
+
+![Car Meet](../images/vehicles/carmeet.webp)
+
+*Take your new ride to a meet and show it off*
 
 Before buying, take it for a spin:
 1. Select vehicle

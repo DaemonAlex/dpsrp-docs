@@ -1,5 +1,9 @@
 # Factories Guide
 
+![Industrial Workshop](../images/jobs/worker-drilling-industrial-workshop.webp)
+
+*Build your manufacturing empire*
+
 GTA Online-style business ownership on DPSRP.
 
 ## Overview
