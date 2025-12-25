@@ -86,6 +86,16 @@ All major robberies use Wasabi scripts with consistent features:
 - High risk, high reward
 - Escape by sea or air
 
+**Smuggler's Run**
+- Contact the smuggler near the docks (night time only, wear a mask)
+- Pay upfront fee to receive mission details
+- Collect cargo from remote locations
+- Fly cargo planes to private airstrips
+- Hack intel stations and communications towers
+- Deliver goods to contacts for payout
+- 50% police alert chance on contact
+- 20 minute cooldown between runs
+
 ## Drug Trade
 
 ![Drug Runner](../images/crime/drug-runner.webp)

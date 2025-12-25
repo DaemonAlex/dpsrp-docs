@@ -54,6 +54,31 @@ Los Santos offers plenty of ways to have fun beyond work.
 - Betting system
 - Custom vehicles
 
+## Beach & Park Activities
+
+### Mirror Park
+**Location:** East Los Santos (near the lake)
+- **Jetski Rental** - Rent a jetski for water fun ($500 deposit)
+- **Yoga Sessions** - Reduce stress on yoga mats
+- **Campfire Area** - Warm up and restore health
+- **Live Music** - Play guitar or use the boombox
+- **Water Dispensers** - Stay hydrated around the park
+- **Food Stands** - Sandwiches, coffee, and fresh fruit
+
+### Vespucci Beach
+**Location:** West Los Santos beachfront
+- **Jetski Rental** - Hit the waves ($500 deposit)
+- **Bike Rental** - Explore the boardwalk on two wheels
+- **Yoga on the Beach** - Morning yoga sessions
+- **Beach Campfire** - Relax by the fire at night
+- **Food Stands** - Beachside snacks and drinks
+
+### Surfboarding
+**Location:** Vespucci Beach, other coastal areas
+- Grab a surfboard and hit the waves
+- Ride the swells along the coast
+- Show off your skills to beachgoers
+
 ## Outdoor Activities
 
 ![Fishing](../images/activities/fishing.webp)
