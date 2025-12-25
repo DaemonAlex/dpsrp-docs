@@ -1,200 +1,160 @@
-# Court System Guide
+# Court System
 
-Understanding the legal system on DPSRP.
+*"Order in the court! All rise for the Honorable Judge..."*
 
-## Overview
+Welcome to the San Andreas District Court, where justice is served, deals are made, and the drama of the courtroom unfolds daily.
 
-DPSRP uses **ap-court** for a full judicial system including trials, lawyers, judges, and jury duty.
+## Your Day in Court
 
-## Court Roles
+Whether you're fighting a traffic ticket, suing your neighbor for running over your lawn gnome, or defending yourself against serious charges, the courthouse is where it all happens.
 
-### Judge
-- Presides over trials
-- Issues sentences
-- Grants bail
-- Signs warrants
+### Where to Go
 
-### Lawyer/Attorney
-- Defends clients
-- Prosecutes cases (DA)
-- Negotiates plea deals
-- Requires passing the Bar Exam
+Head to **City Hall** in downtown Los Santos. Inside you'll find:
+- The main courtroom with jury seating
+- Reception desk for filing cases
+- Bar Association office
+- Judge's chambers
 
-### Jury
-- Random citizens selected
-- Vote guilty/not guilty
-- Deliberate on cases
+## Playing Your Part
 
-### Defendant
-- Player facing charges
-- Can hire defense attorney
-- Can represent themselves
+### As a Defendant
 
-## The Bar Exam
+So you got caught doing something... questionable. Here's what to expect:
 
-### Becoming a Lawyer
-To practice law, you must pass the Bar Exam (powered by BCS Questionnaire):
+1. **Get summoned** - You'll receive an email on your phone
+2. **Show up on time** - Missing court = bad news (warrants, fines)
+3. **Dress the part** - Maybe lose the ski mask for court day
+4. **Decide on representation**:
+   - Hire a slick defense attorney
+   - Request a public defender
+   - Represent yourself (bold move, Cotton)
 
-1. Go to City Hall (GABZ location)
-2. Speak to the Bar Staff NPC
-3. Take the bar examination
-4. Pass with required score
-5. Receive your **Lawyer Pass** credential
-6. Your Bar ID and name are registered
+**Pro tip:** Whatever you do, DON'T lose your cool in court. Judges don't appreciate outbursts, and it hurts your case.
 
-### The Lawyer Pass
-Your Lawyer Pass is your credential to practice law:
-- Contains your Bar ID number
-- Shows your registered name
-- Required to represent clients
-- Can be verified by court officials
+### As a Juror
 
-### Exam Topics
-- Criminal law basics
-- Court procedures
-- Rights of defendants
-- Evidence rules
-- Sentencing guidelines
+Fancy getting paid to judge other people's life choices? Jury duty might be for you!
 
-## Court Process
+1. Visit the jury seating area in the courtroom
+2. Sign up for available cases and pocket **$1,000** just for showing up
+3. Attend the trial, listen to both sides
+4. Deliberate with your fellow jurors
+5. Vote on the verdict and earn another **$500**
 
-### Pre-Trial
+**Warning:** If you sign up and don't show, that's a **$3,000** fine. The court doesn't play.
 
-#### Arrest & Booking
-1. Player arrested by police
-2. Charges filed in MDT
-3. Bail set (or denied)
-4. Player jailed or released on bail
+### As a Lawyer
 
-#### Bail System
-| Charge Severity | Bail Amount |
-|-----------------|-------------|
-| Misdemeanor | $1,000 - $10,000 |
-| Felony | $10,000 - $100,000 |
-| Serious Felony | $100,000+ or denied |
+Want to argue professionally? Become an attorney!
 
-### Trial Process
+#### Passing the Bar
 
-#### 1. Arraignment
-- Charges read
-- Defendant enters plea
-- Guilty/Not Guilty/No Contest
+1. Find the **Bar Association** desk at City Hall
+2. Pay the exam fee (just **$1** - basically free)
+3. Take the 8-question exam covering:
+   - Who's at fault in traffic accidents
+   - When can cops make arrests
+   - Evidence and subpoena rules
+   - Ethics of legal practice
+4. Pass the exam and wait for your background check
+5. Collect your shiny **Bar License ID Card**
 
-#### 2. Discovery
-- Evidence shared
-- Witness lists exchanged
-- Motions filed
+Now you can:
+- Represent clients in court (and charge them handsomely)
+- Interview suspects at police stations
+- File motions and subpoenas
+- Look important carrying a briefcase
 
-#### 3. Trial
-- Opening statements
-- Prosecution presents case
-- Defense presents case
-- Closing arguments
-- Jury deliberation
-- Verdict
+**Important:** Always carry your Bar License. Police and judges will ask to see it.
 
-#### 4. Sentencing
-If guilty:
-- Judge determines sentence
-- Fines and/or jail time
-- Community service possible
+### As a Judge
 
-## Jury Duty
+Judges run the show. They:
+- Call cases to order
+- Rule on objections ("Sustained!" or "Overruled!")
+- Instruct the jury
+- Hand down sentences
+- Look intimidating in robes
 
-### Being Selected
-- Random selection from online players
-- Must report to courthouse
-- Cannot be involved in the case
+*Judge positions are typically appointed or elected.*
 
-### Jury Process
-1. Report to courthouse
-2. Hear the case
-3. Deliberate with other jurors
-4. Vote on verdict
-5. Unanimous decision required
+## How a Trial Works
 
-### Juror Rules
-- Remain impartial
-- No outside research
-- No discussing case outside court
-- Based verdict on evidence only
+### Before the Big Day
 
-## Types of Cases
+1. Both sides get summoned via phone
+2. Lawyers gather evidence and witnesses
+3. Everyone prepares their arguments
+4. Show up 10 minutes early (seriously)
 
-### Criminal Cases
-- Assault
-- Robbery
-- Murder
-- Drug charges
-- Weapons charges
-- Traffic offenses (serious)
+### The Main Event
 
-### Civil Cases
-- Property disputes
-- Contract violations
-- Damage claims
-- Restraining orders
+**Opening Statements** - Both sides tell the jury what they're going to prove
 
-## Rights of the Accused
+**Prosecution's Case** - They present evidence, call witnesses, try to prove guilt
 
-### Miranda Rights
-- Right to remain silent
-- Right to an attorney
-- Anything said can be used against you
+**Defense's Case** - Time to poke holes in everything and create reasonable doubt
 
-### Trial Rights
-- Right to speedy trial
-- Right to face accusers
-- Right to present defense
-- Right to jury trial (felonies)
+**Closing Arguments** - Last chance to sway the jury
 
-## Hiring a Lawyer
+**Jury Deliberation** - Jurors go argue amongst themselves
 
-### Finding Representation
-1. Ask for court-appointed attorney
-2. Hire private defense lawyer
-3. Represent yourself (not recommended)
+**The Verdict** - Guilty? Not guilty? The tension is real.
 
-### Lawyer Fees
-- Negotiated between client and lawyer
-- Can be paid hourly or flat rate
-- Public defenders available
+### After the Verdict
 
-## Courthouse Location
+If you're found guilty:
+- Judge announces your sentence
+- Fines get added to your tab
+- Jail time gets scheduled
+- Your criminal record gets updated (this follows you!)
 
-- **Main Location:** City Hall (GABZ)
-- **Bar Staff:** For bar exam and licensing
-- **Court Officer:** Court proceedings
-- **Jury Area:** Jury selection and deliberation
-- **Judge's Bench:** Presiding area
-- **Court Tables:** Prosecution and defense
+If you're acquitted:
+- Walk out with your head held high
+- Maybe reconsider your life choices anyway
 
-## Court Commands
+## Criminal Records
 
-| Command | Description |
-|---------|-------------|
-| /court | Court information |
-| /case | View your case |
-| /lawyer | Request lawyer |
+Everything gets logged. Past convictions affect:
+- Future sentencing (repeat offenders beware)
+- Background checks
+- Some job opportunities
+- How judges view you in future cases
 
-## Tips
+Some records can potentially be expunged - talk to a lawyer about that.
 
-### For Defendants
-1. **Stay calm** - Outbursts hurt your case
-2. **Get a lawyer** - They know the system
-3. **Be honest** - With your lawyer at least
-4. **Dress appropriately** - Show respect for court
-5. **Show up on time** - Missing court = warrant
+## The Business Side
 
-### For Lawyers
-1. **Know the law** - Study server legal codes
-2. **Prepare thoroughly** - Review all evidence
-3. **Communicate** - Keep client informed
-4. **Be professional** - Even with opposing counsel
-5. **Document everything** - Keep case files
+| What | How Much |
+|------|----------|
+| Bar Exam | $1 |
+| Replacement Bar ID | $5,000 |
+| Jury sign-up bonus | $1,000 |
+| Jury verdict payout | $500 |
+| No-show penalty | Up to $3,000 |
+| Maximum settlement | $1,000,000 |
 
-### For Jurors
-1. **Listen carefully** - All evidence matters
-2. **Take notes** - Lots of information
-3. **Stay neutral** - No preconceptions
-4. **Deliberate fairly** - Discuss with other jurors
+## Tips for Success
+
+**For the Accused:**
+- Screenshot EVERYTHING - timestamps, locations, witnesses
+- Get a lawyer for anything serious
+- Be respectful even when you're frustrated
+- Show up on time, dressed appropriately
+
+**For Lawyers:**
+- Know the server's legal codes inside and out
+- Prepare your arguments in advance
+- Keep your client informed and calm
+- Stay professional, even when opposing counsel is annoying
+
+**For Jurors:**
+- Pay attention to ALL the evidence
+- Take mental notes
+- Don't decide before you've heard everything
+- Discuss fairly during deliberation
+
+---
+
+*The courthouse: Where fortunes are won, freedom is lost, and the gavel falls with authority.*
