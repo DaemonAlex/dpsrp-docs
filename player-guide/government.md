@@ -31,6 +31,10 @@ The worker bees who keep government running:
 
 ## Elections: Your Shot at Power
 
+![Voting Booth](../images/government/e639a3-Image144.png)
+
+*Democracy in action - cast your vote!*
+
 Ever looked at the Mayor and thought "I could do better"? Here's your chance.
 
 ### Running for Office

@@ -1,5 +1,7 @@
 # Court System
 
+![The Courtroom](../images/court/courtroom.jpg)
+
 *"Order in the court! All rise for the Honorable Judge..."*
 
 Welcome to the San Andreas District Court, where justice is served, deals are made, and the drama of the courtroom unfolds daily.
@@ -70,6 +72,10 @@ Now you can:
 
 ### As a Judge
 
+![The Judge](../images/court/judge.jpg)
+
+*All rise!*
+
 Judges run the show. They:
 - Call cases to order
 - Rule on objections ("Sustained!" or "Overruled!")
@@ -80,6 +86,10 @@ Judges run the show. They:
 *Judge positions are typically appointed or elected.*
 
 ## How a Trial Works
+
+![Court in Session](../images/court/hearing.jpg)
+
+*Justice being served*
 
 ### Before the Big Day
 

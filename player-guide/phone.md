@@ -1,5 +1,9 @@
 # Phone Guide
 
+![Phone Interface](../images/phone/lockscreen-homescreen-camera.png)
+
+*Your digital lifeline in Los Santos*
+
 Your lb-phone is essential for life in Los Santos.
 
 ## Accessing Your Phone
@@ -37,6 +41,10 @@ Your lb-phone is essential for life in Los Santos.
 - **Tow** - Request tow truck
 
 ## Making Calls
+
+![Using Your Phone](../images/phone/using%20phone3.png)
+
+*Stay connected on the go*
 
 1. Open Phone app
 2. Dial number or select contact
